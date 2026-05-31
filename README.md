@@ -25,7 +25,7 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 - [x] **Module 1 :** Création de l'assistant custom (Gem/Project) avec ton managérial
 - [x] **Module 2 :** Fiabilisation des faits via des techniques de réduction d'hallucinations
 - [x] **Module 3 :** Déploiement d'une interface ou d'un canal de génération à la demande
-- [ ] **Module 4 :** Conformité RGPD et politiques de rétention des données
+- [x] **Module 4 :** Conformité RGPD et politiques de rétention des données
 
 ---
 
