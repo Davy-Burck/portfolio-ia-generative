@@ -11,7 +11,7 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 - [x] **Module 1 :** Conception du Prompt Système & de la logique de filtrage
 - [x] **Module 2 :** Enrichissement du contexte (RAG basique sur criticité CVE)
 - [x] **Module 3 :** Automatisation du workflow complet sur n8n
-- [ ] **Module 4 :** Sécurisation du pipeline contre l'injection de données
+- [x] **Module 4 :** Sécurisation du pipeline contre l'injection de données
 
 ###  Projet 2 : L'Analyseur de Logs Suspects (SOC Assistant)
 *Analyse contextuelle de logs système pour détecter des comportements anormaux ou malveillants.*
