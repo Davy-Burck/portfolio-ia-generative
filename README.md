@@ -17,7 +17,7 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 *Analyse contextuelle de logs système pour détecter des comportements anormaux ou malveillants.*
 - [x] **Module 1 :** Création du prompt Few-Shot de classification de logs
 - [x] **Module 2 :** Connexion à la documentation de référence (MITRE ATT&CK) via RAG
-- [ ] **Module 3 :** Intégration dans un flux d'analyse d'incident
+- [x] **Module 3 :** Intégration dans un flux d'analyse d'incident
 - [ ] **Module 4 :** Audit de sécurité des données (éviter les fuites de logs sensibles dans le LLM)
 
 ###  Projet 3 : Le Vulgarisateur & Générateur de Fiches de Sensibilisation
