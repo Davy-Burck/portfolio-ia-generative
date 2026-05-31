@@ -24,7 +24,7 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 *Transformation de rapports techniques complexes en notes de sécurité claires et fiches de sensibilisation pour les collaborateurs.*
 - [x] **Module 1 :** Création de l'assistant custom (Gem/Project) avec ton managérial
 - [x] **Module 2 :** Fiabilisation des faits via des techniques de réduction d'hallucinations
-- [ ] **Module 3 :** Déploiement d'une interface ou d'un canal de génération à la demande
+- [x] **Module 3 :** Déploiement d'une interface ou d'un canal de génération à la demande
 - [ ] **Module 4 :** Conformité RGPD et politiques de rétention des données
 
 ---
