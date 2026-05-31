@@ -10,7 +10,7 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 *Automatisation d'une veille sur les menaces et vulnérabilités (Flux RSS/API) avec tri intelligent par LLM et alertes.*
 - [x] **Module 1 :** Conception du Prompt Système & de la logique de filtrage
 - [x] **Module 2 :** Enrichissement du contexte (RAG basique sur criticité CVE)
-- [ ] **Module 3 :** Automatisation du workflow complet sur n8n
+- [x] **Module 3 :** Automatisation du workflow complet sur n8n
 - [ ] **Module 4 :** Sécurisation du pipeline contre l'injection de données
 
 ###  Projet 2 : L'Analyseur de Logs Suspects (SOC Assistant)
