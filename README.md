@@ -33,3 +33,5 @@ Bienvenue sur mon journal de bord et portfolio dédié à l'apprentissage de l'I
 - **LLMs :** Gemini (Advanced), Claude 3.5
 - **Frameworks & Concepts :** Prompt Engineering, RAG (Retrieval-Augmented Generation), Few-Shot Learning, AI Guardrails
 - **Automatisation :** n8n
+
+- **Sécurité & Gouvernance IA :** Consulte le détail de l'approche risque, des garde-fous et de la validation par projet dans [GOUVERNANCE_SECURITE_IA.md](./GOUVERNANCE_SECURITE_IA.md).
