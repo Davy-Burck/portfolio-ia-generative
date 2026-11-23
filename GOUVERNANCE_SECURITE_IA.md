@@ -1,6 +1,6 @@
 ---
 
-## 🛡️ Gouvernance, Sécurité & Méthodologie de Validation IA
+##  Gouvernance, Sécurité & Méthodologie de Validation IA
 
 L'intégration des LLM dans des processus de cybersécurité (veille, SOC, reporting) introduit des risques spécifiques (hallucinations, injections indirectes, fuite de données sensibles). Chaque projet de ce portfolio applique une démarche inspirée des standards d'audit et de test de sécurité (PTES / OWASP LLM Top 10) :
 
